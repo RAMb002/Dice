@@ -1,4 +1,4 @@
-# dice_game
+# Roll the dice
 
 A new Flutter project.
 
